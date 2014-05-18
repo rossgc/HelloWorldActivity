@@ -36,7 +36,7 @@ public class HelloWorldActivity extends Activity {
   private Card _card;
   private View _cardView;
   private TextView _statusTextView;
-  private String chase = "Chase sux";
+  private String chase = "Chase sux!";
 
   private TextToSpeech _speech;
 
